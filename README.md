@@ -1,2 +1,2 @@
-# weather-app
+# Projects
 weekly weather app
